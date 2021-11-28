@@ -1,4 +1,4 @@
-# AndroidTestWebServer
+# AndroidTestHttpServer
 
 서버 응답 테스트 용 Android Http Server 앱 입니다.
 
